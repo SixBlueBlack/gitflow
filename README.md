@@ -1,1 +1,1 @@
-# gitflow 2.0
+# gitflow 3.0
